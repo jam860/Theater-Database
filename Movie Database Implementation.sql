@@ -1,4 +1,4 @@
---Movie Database / Tables, Stored Procedures and Queries
+--Theater Database / Tables, Stored Procedures and Queries
 --By: James Nguyen, Irene Jo, Ethan Kim, William Yuen
 
 CREATE TABLE Genre (
